@@ -168,4 +168,4 @@ if st.button("Export Progress as CSV"):
 
 # Footer
 st.markdown("---")
-st.markdown("Built with ❤️ using [Streamlit](https://streamlit.io)")
+st.markdown("Copyright © 2025 My Streamlit App. All Rights Reserved.")
